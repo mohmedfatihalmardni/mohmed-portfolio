@@ -266,7 +266,7 @@ function AuthTasker() {
             </form>
 
             <div className="mt-5 rounded-lg border border-amber-200 bg-amber-50 p-3 text-xs leading-5 text-amber-700">
-              <strong>Frontend Simulation / Mock Auth:</strong> no real
+              <strong>:</strong> no real
               account or backend is connected. Login data is stored only in
               your browser.
             </div>
@@ -283,7 +283,7 @@ function AuthTasker() {
         <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
           <div>
             <div className="inline-flex items-center gap-2 rounded-full bg-blue-50 px-3 py-1.5 text-xs font-semibold text-blue-700">
-              Frontend Simulation / Mock Auth
+              
             </div>
 
             <h1 className="mt-4 text-3xl font-bold text-slate-900">
